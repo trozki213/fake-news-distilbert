@@ -47,3 +47,4 @@ jupyter notebook fake_news_distilbert.ipynb
 ```
 
 The notebook was run with TensorFlow on Apple Silicon (`tensorflow-metal`); on other platforms, replace `tensorflow.keras.optimizers.legacy.Adam` with `tensorflow.keras.optimizers.Adam`.
+
